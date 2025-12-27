@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "name": "Soft Teddy Bear",
+    "price": 29.99,
+    "description": "A cute plush bear for comfort, hugs, or a sweet apology.",
+    "image": "teddy.jpg",
+    "occasion": "Birthday",
+    "moment": ["Get Well Soon", "Making Amends", "Catching Up"]
+  },
+  {
+    "id": 2,
+    "name": "Premium Rose Bouquet",
+    "price": 49.99,
+    "description": "12 roses wrapped beautifully. The classic gesture of love.",
+    "image": "roses.jpg",
+    "occasion": "Anniversary",
+    "moment": ["Making Amends", "Airport Pickup"]
+  },
+  {
+    "id": 3,
+    "name": "Assorted Chocolate Box",
+    "price": 19.99,
+    "description": "Premium chocolates, perfect for sharing or a sweet treat.",
+    "image": "chocolate.jpg",
+    "occasion": "Anniversary",
+    "moment": ["Catching Up", "Housewarming", "Making Amends"]
+  },
+  {
+    "id": 4,
+    "name": "Graduation Flower & Balloon Set",
+    "price": 59.90,
+    "description": "A cheerful bouquet paired with a congratulatory balloon.",
+    "image": "grad_set.jpg",
+    "occasion": "Graduation",
+    "moment": ["Catching Up"]
+  },
+  {
+    "id": 5,
+    "name": "Luxury Self-Care Box",
+    "price": 79.00,
+    "description": "A calming set with tea, candle, and a handwritten-style card.",
+    "image": "mothers_box.jpg",
+    "occasion": "Mother's Day",
+    "moment": ["Get Well Soon", "Catching Up"]
+  },
+  {
+    "id": 6,
+    "name": "Minimalist Photo Frame",
+    "price": 45.50,
+    "description": "A sleek frame to capture a meaningful memory together.",
+    "image": "memory_frame.jpg",
+    "occasion": "Anniversary",
+    "moment": ["Housewarming", "Making Amends"]
+  },
+  {
+    "id": 7,
+    "name": "Welcome Home Combo",
+    "price": 69.90,
+    "description": "Greet them with comfort snacks and a small bouquet.",
+    "image": "snack_bouquet.jpg",
+    "occasion": "General",
+    "moment": ["Airport Pickup", "Housewarming"]
+  },
+  {
+    "id": 8,
+    "name": "Scented Candle Set",
+    "price": 39.90,
+    "description": "Warm, cozy candles to help a new place feel like home.",
+    "image": "candle_set.jpg",
+    "occasion": "Mother's Day",
+    "moment": ["Housewarming", "Get Well Soon", "Catching Up"]
+  },
+  {
+    "id": 9,
+    "name": "Personalised Name Keychain",
+    "price": 19.90,
+    "description": "A thoughtful keepsake that they can carry everywhere.",
+    "image": "name_keychain.jpg",
+    "occasion": "Birthday",
+    "moment": ["Catching Up", "Housewarming"]
+  },
+  {
+    "id": 10,
+    "name": "Wellness Care Package",
+    "price": 34.90,
+    "description": "A gentle care pack with healthy snacks, tea, and honey.",
+    "image": "getwell_pack.jpg",
+    "occasion": "General",
+    "moment": ["Get Well Soon"]
+  },
+  {
+    "id": 101,
+    "name": "Elegant Stationary Set",
+    "price": 12.50,
+    "description": "A lovely set of stationary for daily creativity.",
+    "image": "stationary.jpg",
+    "occasion": "Birthday",
+    "moment": ["Catching Up", "Making Amends"]
+  },
+  {
+    "id": 102,
+    "name": "Cozy Fluffy Socks",
+    "price": 8.99,
+    "description": "Warm and fuzzy socks to keep feet happy.",
+    "image": "socks.jpg",
+    "occasion": "Birthday",
+    "moment": ["Get Well Soon", "Catching Up"]
+  }
+]

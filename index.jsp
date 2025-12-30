@@ -113,7 +113,7 @@
 
 <div class="container mb-5">
     <div class="mb-5 text-center">
-        <img src="images/banner1.jpg" alt="Gift Genie Banner" class="img-fluid rounded-4 shadow-sm" style="max-height: 300px; width: 100%; object-fit: cover;">
+        <img src="images/banner1.jpg" alt="Gift Genie Website Banner" class="img-fluid rounded-4 shadow-sm" style="max-height: 300px; width: 100%; object-fit: cover;">
     </div>
 
     <div class="row justify-content-center">

@@ -29,7 +29,7 @@
   {
     "id": 4,
     "name": "Graduation Flower & Balloon Set",
-    "price": 59.90,
+    "price": 99.90,
     "description": "A cheerful bouquet paired with a congratulatory balloon.",
     "image": "grad_set.jpg",
     "occasion": "Graduation",
@@ -38,7 +38,7 @@
   {
     "id": 5,
     "name": "Luxury Self-Care Box",
-    "price": 79.00,
+    "price": 49.00,
     "description": "A calming set with tea, candle, and a handwritten-style card.",
     "image": "mothers_box.jpg",
     "occasion": "Mother's Day",
@@ -56,7 +56,7 @@
   {
     "id": 7,
     "name": "Welcome Home Combo",
-    "price": 69.90,
+    "price": 39.90,
     "description": "Greet them with comfort snacks and a small bouquet.",
     "image": "snack_bouquet.jpg",
     "occasion": "General",

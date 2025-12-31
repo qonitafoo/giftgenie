@@ -1,4 +1,4 @@
-# 🎁 GiftGenie - Intelligent Gift Recommendation System
+# 🎁 GiftGenie - Smart Gift Recommendation System
 
 **GiftGenie** is a web-based e-commerce platform designed to solve the "gifting dilemma." It helps users find curated gift recommendations based on categories, occasions, and relationships.
 

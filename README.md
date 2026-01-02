@@ -26,4 +26,4 @@
 * **Qonita Fiddin** - Backend Logic & System Integration
 
 ---
-*University Project - Jan 2026*
+*CAT201W Project - Jan 2026*
